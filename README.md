@@ -33,5 +33,5 @@ Thanks for checking out this front-end coding.
 ### Author
 <hr>
 
-- Frontend Mentor - [@Sai-Kumar-Kanuri](https://www.frontendmentor.io/profile/yourusername)
+- [@Sai-Kumar-Kanuri](https://www.frontendmentor.io/profile/yourusername)
 
