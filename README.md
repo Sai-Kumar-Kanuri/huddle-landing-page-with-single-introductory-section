@@ -14,7 +14,7 @@ Thanks for checking out this front-end coding.
 
 ### Links
 
-- Live Site URL: [https://sai-kumar-kanuri.github.io/huddle-landing-page-with-single-introductory-section/](https://your-live-site-url.com)
+- Live Site URL: https://sai-kumar-kanuri.github.io/huddle-landing-page-with-single-introductory-section/
 
 ## My process
 
