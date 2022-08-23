@@ -16,6 +16,10 @@ Thanks for checking out this front-end coding.
 
 - Live Site URL: https://sai-kumar-kanuri.github.io/huddle-landing-page-with-single-introductory-section/
 
+## Screenshot
+
+![](/huddle.png)
+
 ## My process
 
 ### Built with
